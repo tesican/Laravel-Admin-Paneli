@@ -28,3 +28,4 @@ Kurulum
 	<pre> php artisan AppGenerate </pre>
 - Kurulum komutundan sonra tablolar database'e yüklenecektir, yükleme sırasında kişisel verileri komut satırından girin.
 	
+webteders.com
